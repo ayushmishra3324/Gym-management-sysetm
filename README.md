@@ -1,18 +1,3 @@
-<p align="center"><img src="images/logo.png" height="140" alt="logo"/></p>
-<h1 align="center">💪 GymRocket</h1>
-<p align="center">The open source manager app specifically designed for gymnasiums.</p>
-<p align="center">
-<img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
-<img alt="GitHub Pipenv locked Python version" src="https://img.shields.io/github/pipenv/locked/python-version/AnimeshRy/gymrocket">
-<a href="https://github.com/AnimeshRy/gymrocket/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AnimeshRy/gymrocket"></a>
-<a href="https://github.com/AnimeshRy/gymrocket/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AnimeshRy/gymrocket"></a>
-
-
-<p align="center">
-    <a href="https://youtu.be/rCxIc5Z1YAA">
-  <img width="460" height="300" src="images/gif-gymrocket.gif">
-    </a>
-</p>
 
 ## ⚡ Features
 
